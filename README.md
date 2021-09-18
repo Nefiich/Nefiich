@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nefiich&label=Profile%20views&color=0e75b6&style=flat" alt="nefiich" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nefiich" alt="nefiich" /></a> </p>
-
 - 🔭 I’m currently working on the [Explore.ba project](https://explore.ba)
 
 <h3 align="left">Connect with me:</h3>

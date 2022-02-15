@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @nefiich</h1>
-<h3 align="center">I'm a Full Stack Software Devloper from Bosnia!</h3>
+<h3 align="center">I'm a Full Stack Software Developer from Bosnia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nefiich&label=Profile%20views&color=0e75b6&style=flat" alt="nefiich" /> </p>
 
